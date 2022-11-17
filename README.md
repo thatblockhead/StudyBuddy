@@ -1,4 +1,5 @@
-# flashcards-project
-Study React by building a study tool
+#StudyBuddy
 
-Recall is a crucial technique for cementing new concepts. This React application allows you to create sets of flashcards that you can use to study any topic.
+This is a personal project I'm building to learn Firebase and continue studying React.
+
+The final product will be a web application with learning tools such as flashcards that I can use to study any topic. Bonus!
